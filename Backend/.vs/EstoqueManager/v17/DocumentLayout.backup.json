@@ -1,0 +1,958 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\FullStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\itenspedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\itenspedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\fornecedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\estoquemanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\estoquemanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\estoquemanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\estoquemanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\itempedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\itempedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|c:\\projetos\\fullstack\\estoquemanager.api\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67114A0-65D2-44D3-B78B-DA2C94458F34}|EstoqueManager.API\\EstoqueManager.API.csproj|solutionrelative:estoquemanager.api\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\movimentacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\movimentacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getmovimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getmovimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createmovimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createmovimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\itempedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\itempedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\interfaces\\iitempedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\interfaces\\iitempedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getitempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getitempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createitempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createitempedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|c:\\projetos\\fullstack\\estoquemanager.infrastructure\\data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0E537C-40C1-4E53-8D47-B7594BA57A09}|EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj|solutionrelative:estoquemanager.infrastructure\\data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getfornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getfornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createfornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createfornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|c:\\projetos\\fullstack\\estoquemanager.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E927900-C502-445A-B725-B85CC4641674}|EstoqueManager.Domain\\EstoqueManager.Domain.csproj|solutionrelative:estoquemanager.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\read\\getcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\read\\getcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|c:\\projetos\\fullstack\\estoquemanager.application\\dtos\\create\\createcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9C2E88-7940-46D8-A9B4-95617F622DBE}|EstoqueManager.Application\\EstoqueManager.Application.csproj|solutionrelative:estoquemanager.application\\dtos\\create\\createcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\.env",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\.env",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\.env",
+              "RelativeToolTip": "EstoqueManager.API\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T19:03:24.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FornecedoresController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\FornecedoresController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\FornecedoresController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\FornecedoresController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\FornecedoresController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:34:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItensPedidosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\ItensPedidosController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\ItensPedidosController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\ItensPedidosController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\ItensPedidosController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:50:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:32:14.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Program.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:30:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\appsettings.json",
+              "RelativeToolTip": "EstoqueManager.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T13:22:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:30:05.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:29:38.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:25:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EstoqueManager.API.csproj",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\EstoqueManager.API.csproj",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\EstoqueManager.API.csproj",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\EstoqueManager.API.csproj",
+              "RelativeToolTip": "EstoqueManager.API\\EstoqueManager.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T23:23:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:29:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:22:49.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:24:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstoqueManager.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\EstoqueManager.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T16:34:14.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:22:50.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:22:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:21:48.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwEIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:24:18.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenResponseDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\TokenResponseDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\TokenResponseDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\TokenResponseDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\TokenResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:22:32.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:21:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:03:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:47:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:33:42.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\FornecedorService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\FornecedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:33:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFornecedorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IFornecedorService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IFornecedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:33:17.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:45:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:28:48.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:45:44.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:34:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:01:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemPedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\ItemPedidoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\ItemPedidoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\ItemPedidoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\ItemPedidoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:49:32.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetProdutoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetProdutoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetProdutoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetProdutoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:43:29.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateProdutoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreateProdutoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateProdutoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreateProdutoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:42:45.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:59:46.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:27:32.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:42:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Movimentacao.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Movimentacao.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:51:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\ItemPedido.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\ItemPedido.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:47:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MovimentacoesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\MovimentacoesController.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.API\\Controllers\\MovimentacoesController.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.API\\Controllers\\MovimentacoesController.cs",
+              "RelativeToolTip": "EstoqueManager.API\\Controllers\\MovimentacoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:53:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovimentacaoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\MovimentacaoRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\MovimentacaoRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\MovimentacaoRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\MovimentacaoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:53:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MovimentacaoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\MovimentacaoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\MovimentacaoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\MovimentacaoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\MovimentacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:53:06.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMovimentacaoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IMovimentacaoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IMovimentacaoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IMovimentacaoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IMovimentacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:52:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetMovimentacaoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetMovimentacaoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetMovimentacaoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetMovimentacaoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetMovimentacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:52:18.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateMovimentacaoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateMovimentacaoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreateMovimentacaoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateMovimentacaoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreateMovimentacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:51:45.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ItemPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\ItemPedidoRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\ItemPedidoRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\ItemPedidoRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\ItemPedidoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:50:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IItemPedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IItemPedidoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Interfaces\\IItemPedidoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Interfaces\\IItemPedidoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Interfaces\\IItemPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:49:05.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetItemPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetItemPedidoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetItemPedidoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetItemPedidoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetItemPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:48:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateItemPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateItemPedidoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreateItemPedidoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateItemPedidoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreateItemPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:48:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Infrastructure\\Data\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Infrastructure\\Data\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "EstoqueManager.Infrastructure\\Data\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:46:35.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:46:03.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetPedidoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetPedidoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetPedidoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetPedidoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:44:31.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreatePedidoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreatePedidoDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreatePedidoDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreatePedidoDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreatePedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:43:05.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetFornecedorDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetFornecedorDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetFornecedorDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetFornecedorDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetFornecedorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:32:55.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateFornecedorDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateFornecedorDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreateFornecedorDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateFornecedorDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreateFornecedorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:32:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Domain\\Entities\\Fornecedor.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Domain\\Entities\\Fornecedor.cs",
+              "RelativeToolTip": "EstoqueManager.Domain\\Entities\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:32:10.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetCategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetCategoriaDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Read\\GetCategoriaDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Read\\GetCategoriaDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Read\\GetCategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:28:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateCategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateCategoriaDTO.cs",
+              "RelativeDocumentMoniker": "EstoqueManager.Application\\DTOs\\Create\\CreateCategoriaDTO.cs",
+              "ToolTip": "C:\\Projetos\\FullStack\\EstoqueManager.Application\\DTOs\\Create\\CreateCategoriaDTO.cs",
+              "RelativeToolTip": "EstoqueManager.Application\\DTOs\\Create\\CreateCategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:28:00.408Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

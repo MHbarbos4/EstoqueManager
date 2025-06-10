@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FWTCi3MVIN0NB9InelGjzXdHVVPBcDavuYa4rjNKEXw=",
+  "Source": "EstoqueManager.API",
+  "BasePath": "_content/EstoqueManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
